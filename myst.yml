@@ -4,7 +4,7 @@ extends:
   - https://raw.githubusercontent.com/eds-book/edsbook-config/main/edsbook.yml
 project:
   id: b34facfa-cea8-48f5-89f6-f11ce00812a9
-  subtitle: Detecting floating objects using deep learning and Sentinel-2 imagery
+  subtitle: Detecting floating objects (ESA Phi-Lab)
   authors:
     - id: jmifdal
       name: Jamila Mifdal
