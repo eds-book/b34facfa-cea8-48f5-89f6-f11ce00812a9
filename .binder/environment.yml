@@ -8,7 +8,7 @@ dependencies:
   - jupyter
   - intake==0.7.*
   - intake-xarray==0.7.*
-  - rioxarray
+  - rioxarray==0.15.0
   - pytorch==1.8.0
   - torchvision==0.9.0
   - hvplot
